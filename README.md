@@ -1,40 +1,30 @@
 <h1 align="center">Hi 👋, I'm Khant Lin Thein</h1>
-<h3 align="center">🚀 Full Stack Developer | JavaScript • PHP • Python</h3>
+<h3 align="center">🚀 Full Stack Developer | Frontend • Backend • Database</h3>
 
 <p align="center">
-  Passionate about building scalable web applications, clean UI, and reliable backend systems.
+  Building scalable web applications with clean UI and robust backend architecture
 </p>
 
 <p align="center">
-  📍 Based in Thailand | 💼 Open for Job & Freelance Opportunities
+  📍 Thailand | 💼 Open for Job & Freelance
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 💻 Full Stack Developer with hands-on experience in modern web technologies  
-- 🌱 Always learning new frameworks, tools, and best practices  
-- 🛠️ Strong focus on performance, clean code, and maintainability  
-- 🤝 Open to collaboration, freelance work, and full-time roles  
+- Full Stack Developer experienced in modern frontend frameworks and backend systems  
+- Strong focus on clean architecture, performance, and scalability  
+- Comfortable working across frontend, backend, and databases  
+- Open to full-time roles, freelance, and remote opportunities  
 
----
-
-### 📫 Contact Me
-
-- 📧 Email: **jamesthomas.dev01@gmail.com**
+📫 **Email:** jamesthomas.dev01@gmail.com
 
 ---
 
-### 🧰 Languages & Tools
+## 🎨 Frontend
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  </a>
   <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   </a>
@@ -47,6 +37,28 @@
   <a href="https://svelte.dev">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40"/>
   </a>
+  <a href="https://reactnative.dev/">
+    <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  </a>
+  <a href="https://getbootstrap.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
   <a href="https://nodejs.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   </a>
@@ -65,6 +77,13 @@
   <a href="https://www.python.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   </a>
+</p>
+
+---
+
+## 🗄️ Database & Cloud
+
+<p align="left">
   <a href="https://www.mongodb.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   </a>
@@ -77,25 +96,27 @@
   <a href="https://firebase.google.com/">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   </a>
+</p>
+
+---
+
+## 🛠️ DevOps & Tools
+
+<p align="left">
   <a href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  </a>
-  <a href="https://getbootstrap.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
   </a>
 </p>
 
 ---
 
-### ✨ What I’m Looking For
+### ✨ Currently Looking For
 
-- 💼 Full Stack Developer roles  
-- 🧑‍💻 Freelance & contract projects  
-- 🚀 Startup & product-based teams  
+- Full Stack / Frontend / Backend roles  
+- Freelance & contract projects  
+- Remote or Thailand-based opportunities  
 
----
-
-⭐ *Thanks for visiting my profile! Feel free to reach out and collaborate.*
+⭐ *Thanks for visiting my profile!*
